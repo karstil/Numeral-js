@@ -10,10 +10,10 @@
             decimal: ','
         },
         abbreviations: {
-            thousand: 'k',
-            million: 'm',
-            billion: 'b',
-            trillion: 't'
+            thousand: 'Tds.',
+            million: 'Mio.',
+            billion: 'Mrd.',
+            trillion: 'Bio.'
         },
         ordinal: function (number) {
             return '.';
